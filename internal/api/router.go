@@ -1,6 +1,0 @@
-package api
-
-
-func SetupRouter(){
-	
-}
