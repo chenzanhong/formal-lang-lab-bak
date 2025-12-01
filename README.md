@@ -32,6 +32,13 @@ FormalLangLab 是一个基于 Web 的交互式形式语言与自动机学习系�
 - **工具库**: HTTP Client、Cryptoutil、Token
 - **监控**: Prometheus + Grafana
 
+#### 后端模块详细文档
+- [认证服务](backend/AUTH.md)
+- [主服务](backend/MASTER.md)
+- [AI模块](backend/AI.md)
+- [邮件服务](backend/EMAIL.md)
+- [日志服务](backend/LOG.md)
+
 ### 前端
 - **核心框架**: React 19, TypeScript
 - **构建工具**: Vite
@@ -47,3 +54,6 @@ FormalLangLab 是一个基于 Web 的交互式形式语言与自动机学习系�
 - **认证**: JWT Decode
 - **样式解决方案**: Emotion
 - **开发工具**: ESLint, Prettier, PostCSS
+
+#### 前端模块详细文档
+- [前端概述](frontend/frontend.md)
